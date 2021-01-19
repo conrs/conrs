@@ -1,6 +1,6 @@
 ### Matt Connors
 
 - 🏡 San Francisco, CA
-- 💼 Full Stack Engineer @ LiveRamp
+- 💼 Principal Software Engineer @ Truepill
 - 🔗 [Homepage](http://con.rs)
 - ✍️ [Blog](https://conrs.github.io/blog/)
